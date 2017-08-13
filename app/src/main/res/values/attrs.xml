@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressView">
+        <attr name="inner_circle_digital_color" format="color"/>
+        <attr name="inner_circle_background" format="color|reference"/>
+        <attr name="arc_gradient_from" format="color"/>
+        <attr name="arc_gradient_to" format="color"/>
+        <attr name="external_digital_color" format="color"/>
+    </declare-styleable>
+</resources>
